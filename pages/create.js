@@ -108,7 +108,7 @@ function CreatePost() {
             <a className="back">&lt;</a>
           </Link>
           <div className="appContainer">
-            <h1>Create a post linked to the blockchain</h1>
+            <h1>Create a post linked to Unix Community 🐧</h1>
             <Profile setAuthorAttrs={setAuthorAttrs}/>
             <Loader
               name="post"
