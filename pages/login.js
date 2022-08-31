@@ -47,9 +47,9 @@ function Login() {
 
   return (
     <div className="App">
-      <h2>Example Forum dApp</h2>
+      <h2>Unix Forum</h2>
       <h3 className="centered">
-        create, comment, and vote on blogposts and their comments.
+        🐧 The forum goal is to provide users the best Linux resources to start enjoying the free and open-source Linux operating system.
       </h3>
       <br />
       <button onClick={loginExtension}>Log in to your browser extension</button>
