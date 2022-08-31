@@ -3,11 +3,11 @@ export default function Footer() {
     <footer className="Footer">
       <a
         className="Link"
-        href="https://wwww.github.com/lukso-network/example-forum-dapp"
+        href="https://github.com/Bild96/unix-community"
         target="_blank"
         rel="noopener noreferrer"
       >
-        github.com/lukso-network/example-forum-dapp
+        [🐧 Unix Forum](https://github.com/Bild96/unix-community)
       </a>
     </footer>
   );
